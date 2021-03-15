@@ -23,3 +23,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 Файлы .terraformrc и terraform.rc в корне 
+
+fix
